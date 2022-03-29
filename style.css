@@ -1,0 +1,36 @@
+.container_cordinates {
+  /* width: 100vh;
+  height: 100vh; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: row;
+}
+
+h3 {
+  margin-right: 20px;
+}
+
+.input {
+  border: 2px solid green;
+  flex-flow: column;
+  width: 200px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.output {
+  border: 2px solid red;
+  flex-flow: column;
+  width: 200px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.radio {
+  margin: 10px;
+}
