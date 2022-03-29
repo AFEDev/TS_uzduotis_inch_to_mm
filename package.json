@@ -1,0 +1,17 @@
+{
+  "name": "ts_lessons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "dead-server --port=3000 --host=localhost"
+  },
+  "keywords": [],
+  "author": "Algirdas <algirduj@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "dead-server": "^1.0.6",
+    "nodemon": "^2.0.15"
+  }
+}
