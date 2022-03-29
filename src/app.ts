@@ -22,7 +22,7 @@ calculateUnits.addEventListener('click', () =>{
         outputText.innerHTML = `${calculate(imput.value)}`;
     }
          else {
-            outputText.innerHTML = `Iveskite X ir Y reiksmes skaiciais`;
+            outputText.innerHTML = `Iveskite skaiciu`;
         }
        
 })
